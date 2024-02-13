@@ -1,4 +1,4 @@
-# website-qzhub
+# website-store
 
 npm start - run the app
 
